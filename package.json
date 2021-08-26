@@ -16,68 +16,68 @@
     "./package.json": "./package.json",
     ".": {
       "types": "./index.d.ts",
-      "module": "./index.mjs",
-      "import": "./index.mjs",
+      "module": "./index.esm.js",
+      "import": "./index.esm.js",
       "default": "./index.js"
     },
     "./utils": {
       "types": "./utils.d.ts",
-      "module": "./utils.mjs",
-      "import": "./utils.mjs",
+      "module": "./utils.esm.js",
+      "import": "./utils.esm.js",
       "default": "./utils.js"
     },
     "./devtools": {
       "types": "./devtools.d.ts",
-      "module": "./devtools.mjs",
-      "import": "./devtools.mjs",
+      "module": "./devtools.esm.js",
+      "import": "./devtools.esm.js",
       "default": "./devtools.js"
     },
     "./immer": {
       "types": "./immer.d.ts",
-      "module": "./immer.mjs",
-      "import": "./immer.mjs",
+      "module": "./immer.esm.js",
+      "import": "./immer.esm.js",
       "default": "./immer.js"
     },
     "./optics": {
       "types": "./optics.d.ts",
-      "module": "./optics.mjs",
-      "import": "./optics.mjs",
+      "module": "./optics.esm.js",
+      "import": "./optics.esm.js",
       "default": "./optics.js"
     },
     "./query": {
       "types": "./query.d.ts",
-      "module": "./query.mjs",
-      "import": "./query.mjs",
+      "module": "./query.esm.js",
+      "import": "./query.esm.js",
       "default": "./query.js"
     },
     "./xstate": {
       "types": "./xstate.d.ts",
-      "module": "./xstate.mjs",
-      "import": "./xstate.mjs",
+      "module": "./xstate.esm.js",
+      "import": "./xstate.esm.js",
       "default": "./xstate.js"
     },
     "./valtio": {
       "types": "./valtio.d.ts",
-      "module": "./valtio.mjs",
-      "import": "./valtio.mjs",
+      "module": "./valtio.esm.js",
+      "import": "./valtio.esm.js",
       "default": "./valtio.js"
     },
     "./zustand": {
       "types": "./zustand.d.ts",
-      "module": "./zustand.mjs",
-      "import": "./zustand.mjs",
+      "module": "./zustand.esm.js",
+      "import": "./zustand.esm.js",
       "default": "./zustand.js"
     },
     "./redux": {
       "types": "./redux.d.ts",
-      "module": "./redux.mjs",
-      "import": "./redux.mjs",
+      "module": "./redux.esm.js",
+      "import": "./redux.esm.js",
       "default": "./redux.js"
     },
     "./urql": {
       "types": "./urql.d.ts",
-      "module": "./urql.mjs",
-      "import": "./urql.mjs",
+      "module": "./urql.esm.js",
+      "import": "./urql.esm.js",
       "default": "./urql.js"
     }
   },

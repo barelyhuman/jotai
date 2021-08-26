@@ -4,7 +4,7 @@
     "minified": 10893,
     "gzipped": 3839
   },
-  "index.mjs": {
+  "index.esm.js": {
     "bundled": 22130,
     "minified": 8884,
     "gzipped": 3283,
@@ -23,7 +23,7 @@
     "minified": 9745,
     "gzipped": 3377
   },
-  "utils.mjs": {
+  "utils.esm.js": {
     "bundled": 15954,
     "minified": 7566,
     "gzipped": 2795,
@@ -42,7 +42,7 @@
     "minified": 10144,
     "gzipped": 3664
   },
-  "devtools.mjs": {
+  "devtools.esm.js": {
     "bundled": 20426,
     "minified": 8380,
     "gzipped": 3171,
@@ -61,7 +61,7 @@
     "minified": 1135,
     "gzipped": 490
   },
-  "immer.mjs": {
+  "immer.esm.js": {
     "bundled": 1615,
     "minified": 844,
     "gzipped": 407,
@@ -80,7 +80,7 @@
     "minified": 1338,
     "gzipped": 641
   },
-  "optics.mjs": {
+  "optics.esm.js": {
     "bundled": 1646,
     "minified": 812,
     "gzipped": 429,
@@ -99,7 +99,7 @@
     "minified": 3028,
     "gzipped": 935
   },
-  "query.mjs": {
+  "query.esm.js": {
     "bundled": 6499,
     "minified": 2866,
     "gzipped": 936,
@@ -118,7 +118,7 @@
     "minified": 1365,
     "gzipped": 670
   },
-  "xstate.mjs": {
+  "xstate.esm.js": {
     "bundled": 2977,
     "minified": 1314,
     "gzipped": 653,
@@ -137,7 +137,7 @@
     "minified": 776,
     "gzipped": 398
   },
-  "valtio.mjs": {
+  "valtio.esm.js": {
     "bundled": 1235,
     "minified": 598,
     "gzipped": 335,
@@ -156,7 +156,7 @@
     "minified": 394,
     "gzipped": 245
   },
-  "zustand.mjs": {
+  "zustand.esm.js": {
     "bundled": 549,
     "minified": 262,
     "gzipped": 188,
@@ -175,7 +175,7 @@
     "minified": 354,
     "gzipped": 229
   },
-  "redux.mjs": {
+  "redux.esm.js": {
     "bundled": 458,
     "minified": 220,
     "gzipped": 167,
@@ -194,7 +194,7 @@
     "minified": 3105,
     "gzipped": 1116
   },
-  "urql.mjs": {
+  "urql.esm.js": {
     "bundled": 5643,
     "minified": 2916,
     "gzipped": 1121,
